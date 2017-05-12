@@ -1,0 +1,501 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+html {
+  width: 100%;
+  min-width: 1200px;
+  height: 100%;
+}
+a {
+  text-decoration: none;
+}
+ul,
+li {
+  list-style: none;
+}
+body {
+  font-family: arial;
+  background: url(../images/bg.jpg) no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+body .container {
+  width: 100%;
+  float: left;
+}
+body .container .header {
+  width: 100%;
+  height: 54px;
+  background: #000;
+}
+body .container .logo_con {
+  width: 1200px;
+  height: 100px;
+  margin: 0 auto;
+}
+body .container .logo_con .logo {
+  background: url(../images/logo.png);
+  background-size: 100% 100%;
+  width: 265px;
+  height: 80px;
+  float: left;
+  margin: 10px 0 0 10px;
+}
+body .container .logo_con .search {
+  width: 290px;
+  height: 30px;
+  float: right;
+  margin-top: 35px;
+}
+body .container .logo_con .search .txt {
+  border: none;
+  width: 190px;
+  padding: 7px 10px;
+  border-radius: 4px;
+  outline: none;
+  float: left;
+  font-size: 14px;
+  color: #777;
+}
+body .container .logo_con .search .btn {
+  border: none;
+  background: url(../images/search-dark.png) no-repeat 7px 6px #fcab2b;
+  padding: 7px 7px 6px 25px;
+  color: #fff;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 4px;
+  outline: none;
+  float: left;
+  margin-left: 3px;
+}
+body .container .nav {
+  width: 1020px;
+  height: 45px;
+  padding: 0 90px;
+  border-bottom: 4px solid #FCAB2B;
+  background: #000;
+  margin: 0 auto;
+  list-style: none;
+}
+body .container .nav li {
+  float: left;
+}
+body .container .nav a {
+  display: inline-block;
+  color: #fff;
+  font: 15px "微软雅黑";
+  padding: 13px 20px 12px;
+  letter-spacing: 2px;
+}
+body .container .nav a:hover {
+  background: #FCAB2B;
+}
+body .container .nav .on {
+  background: #FCAB2B;
+}
+body .container .content {
+  width: 1200px;
+  margin: 40px auto;
+  display: flex;
+  justify-content: space-between;
+}
+body .container .content .left {
+  width: 780px;
+  height: 20px;
+}
+body .container .content .right {
+  width: 380px;
+}
+body .container .content .right .hot {
+  background: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  border-bottom: 1px solid #666;
+  padding-bottom: 30px;
+  margin-bottom: 50px;
+  float: left;
+}
+body .container .content .right .hot_title {
+  width: 100%;
+  border-bottom: 1px solid #FCAB2B;
+  background: #000;
+  margin-bottom: 55px;
+}
+body .container .content .right .hot_title h5 {
+  font-size: 22px;
+  color: #fff;
+  letter-spacing: 2px;
+  padding: 15px 0 15px 10px;
+  font-family: "微软雅黑";
+  line-height: 16px;
+}
+body .container .content .right .hot_con {
+  list-style: none;
+  padding-left: 10px;
+}
+body .container .content .right .hot_con a {
+  font: 16px "微软雅黑";
+  color: #FCAB2B;
+  margin: 5px;
+  display: inline-block;
+}
+body .container .content .right .today {
+  width: 100%;
+  height: 176px;
+  padding: 0 0 30px 10px;
+}
+body .container .content .right .today .today_img {
+  float: left;
+  width: 130px;
+  height: 176px;
+}
+body .container .content .right .today .movie_in {
+  float: left;
+  padding-left: 5px;
+}
+body .container .content .right .today .movie_in a {
+  display: inline-block;
+  color: #FCAB2B;
+  font: bold 16px "微软雅黑";
+  margin: 5px 0;
+}
+body .container .content .right .today .movie_in p {
+  color: #fff;
+  font: 14px "微软雅黑";
+}
+body .container .footer {
+  width: 100%;
+  height: 530px;
+  background: rgba(0, 0, 0, 0.6);
+  position: relative;
+}
+body .container .footer ul {
+  width: 1200px;
+  margin: 0 auto;
+}
+body .container .footer ul li {
+  float: left;
+  margin: 8px;
+}
+body .container .footer ul li .footer_11 {
+  width: 280px;
+  height: 46px;
+  background: #000;
+  border-bottom: 1px solid #FCAB2B;
+  font: 100 20px/46px "微软雅黑";
+  color: #fff;
+  text-indent: 10px;
+}
+body .container .footer ul li .footer_12 div {
+  margin: 30px 0 -5px 0;
+  width: 280px;
+  height: 80px;
+  background: url(../images/logo.png) no-repeat;
+  background-size: 100% 100%;
+}
+body .container .footer ul li .footer_12 p {
+  margin-top: 16px;
+}
+body .container .footer ul li p {
+  width: 280px;
+  color: #fff;
+  font: 14px/25px arial;
+  margin-top: 56px;
+}
+body .container .footer ul li ol {
+  margin: 34px 0 0 -10px;
+}
+body .container .footer ul li ol li {
+  list-style: none;
+  float: none;
+}
+body .container .footer ul li ol a {
+  display: inline-block;
+  width: 280px;
+  color: #fff;
+  font: 16px/34px arial;
+  border-bottom: 2px solid #FCAB2B;
+}
+body .container .footer .footer_bottom {
+  width: 100%;
+  height: 65px;
+  background: #000;
+  float: left;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+body .contact {
+  width: 780px;
+  border-top: 1px solid #666666;
+  border-bottom: 1px solid #ccc;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+}
+body .contact h2 {
+  font: 500 34px "微软雅黑";
+  letter-spacing: 3px;
+  padding-top: 60px;
+  text-align: center;
+}
+body .contact .c_form {
+  margin: 20px 0 0 25px;
+}
+body .contact .c_form span {
+  font: 16px "微软雅黑";
+  display: block;
+}
+body .contact .c_form input {
+  width: 676px;
+  height: 35px;
+  border: 1px solid #5f5f5f;
+  border-radius: 4px;
+  display: block;
+  margin: 10px 0 25px 0;
+  text-indent: 10px;
+}
+body .contact .c_form .c_form1 {
+  height: 220px;
+  width: 676px;
+  margin: 10px 0 25px 0;
+  border-radius: 4px;
+  padding: 10px;
+}
+body .contact .c_form .c_form_btn {
+  border: none;
+  width: 100px;
+  height: 35px;
+  background: #f8881b;
+  cursor: pointer;
+  border-radius: 3px;
+  padding: 10px;
+  color: #fff;
+  font-size: 13px;
+  text-align: center;
+  margin: 0 0 69px 315px;
+}
+body #content {
+  width: 780px;
+  background: rgba(0, 0, 0, 0.5);
+}
+body #content .content_header {
+  height: 56px;
+  background: #000;
+  border-bottom: 2px solid #fcab2b;
+  text-align: center;
+  line-height: 56px;
+  font-size: 30px;
+  color: #fff;
+}
+body #content .content_movie .H_movie {
+  width: 156px;
+  height: 310px;
+  margin: 30px 19px;
+  float: left;
+  position: relative;
+}
+body #content .content_movie .H_movie .imgBox {
+  width: 156px;
+  height: 232px;
+}
+body #content .content_movie .H_movie .imgBox .H_movieImg {
+  width: 156px;
+  height: 232px;
+  display: block;
+  box-shadow: 1px 1px 1px 0 #ffffff, -1px -1px 1px 0 #ffffff;
+}
+body #content .content_movie .H_movie .imgBox .mask {
+  z-index: 2;
+  width: 156px;
+  height: 232px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0);
+  overflow: hidden;
+}
+body #content .content_movie .H_movie .imgBox .mask .H_moviePlay {
+  z-index: 3 ;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  left: 46px;
+  top: -66px;
+  transition: all 0.5s linear;
+  -webkit-transition: all 0.5s linear;
+  -moz-transition: all 0.5s linear;
+  -ms-transition: all 0.5s linear;
+}
+body #content .content_movie .H_movie .imgBox:hover .mask {
+  background: rgba(0, 0, 0, 0.5);
+}
+body #content .content_movie .H_movie .imgBox:hover .H_moviePlay {
+  top: 84px;
+}
+body #content .content_movie .H_movie .H_movieA {
+  display: block;
+  width: 156px;
+  margin: 5px auto;
+  font-size: 20px;
+  color: #fcab2b;
+  text-align: center;
+}
+body #content .content_movie .H_movie .H_movieA:hover {
+  text-decoration: underline;
+}
+body #content .content_movie .H_movie p {
+  font-size: 14px;
+  color: #fff;
+  text-align: center;
+}
+body #content .content_ul {
+  clear: both;
+  height: 30px;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
+body #content .content_ul li {
+  width: 30px;
+  height: 30px;
+  float: left;
+  background: #666;
+  margin-left: 2px;
+  font-size: 16px;
+  line-height: 30px;
+  text-align: center;
+}
+body #content .content_ul .on {
+  background: #FCAB2B;
+}
+body .s-detail {
+  width: 760px;
+  border-top: 1px solid #666;
+  padding: 10px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+body .s-detail .s-pick {
+  width: 33%;
+  float: left;
+}
+body .s-detail .s-pick img {
+  width: 100%;
+  height: 100%;
+}
+body .s-detail .s-referral {
+  width: 66%;
+  float: right;
+  overflow: hidden;
+}
+body .s-detail .s-referral .last {
+  height: 45px;
+  margin-top: 10px;
+}
+body .s-detail .s-referral li {
+  margin: 0 0 13px 10px;
+}
+body .s-detail .s-referral li p {
+  font-size: 22px;
+  font-weight: bold;
+  color: #222;
+}
+body .s-detail .s-referral li p a {
+  color: #fff;
+}
+body .s-detail .s-referral li p button {
+  background: #f8881b;
+  border: 1px solid #eee;
+  font-size: 22px;
+  padding: 10px 15px;
+  margin-right: 10px;
+  -webkit-border-radius: 4px;
+  outline-style: none;
+  cursor: pointer;
+  color: #fff;
+}
+body .s-detail .s-referral li p button:hover {
+  opacity: 0.9;
+}
+body .s-matter {
+  width: 750px;
+  border-top: 1px solid #666;
+  padding: 20px 15px;
+  overflow: hidden;
+  margin-bottom: 30px;
+  background: rgba(0, 0, 0, 0.6);
+}
+body .s-matter p {
+  color: #FFFFFF;
+  font-weight: bold;
+}
+body .s-matter .s-list {
+  margin: 20px;
+}
+body .s-matter .s-list .s-pic {
+  float: left;
+}
+body .s-matter .s-list .s-pic img {
+  width: 380px;
+  height: 200px;
+  margin: 10px;
+}
+body .s-matter .s-list p {
+  color: #FFFFFF;
+  font-weight: bold;
+}
+body .s-matter .s-headline {
+  border-left: 3px solid #1c7791;
+  font-size: 18px;
+  margin: 0 50px;
+  font-style: italic;
+  color: #666;
+  padding-left: 20px;
+}
+body .s-matter .s-las {
+  margin-top: 20px;
+}
+body .s-fine {
+  overflow: hidden;
+}
+body .s-fine .s-title {
+  background: #000;
+  padding-left: 15px;
+  height: 40px;
+  width: 100%;
+  line-height: 40px;
+  border-bottom: 1px solid #F8881B;
+  float: left;
+}
+body .s-fine .s-title h1 {
+  color: #fff;
+  font-size: 22px;
+}
+body .s-fine .s-bottom {
+  background: rgba(0, 0, 0, 0.6);
+}
+body .s-fine .s-bottom ul {
+  overflow: hidden;
+  width: 100%;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #666666;
+}
+body .s-fine .s-bottom ul li {
+  float: left;
+  width: 28%;
+  margin-left: 30px;
+  margin-top: 40px;
+}
+body .s-fine .s-bottom ul li img {
+  width: 100%;
+  height: 300px;
+  border: 1px solid #fff;
+}
+body .s-fine .s-bottom ul li img:hover {
+  opacity: .8;
+}
+body .s-fine .s-bottom ul li a {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+}

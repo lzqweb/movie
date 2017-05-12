@@ -1,0 +1,648 @@
+{
+	"today":[
+		{
+			"img":"images/o1.jpg",
+			"name":"A Blue Morning",
+			"time":"March 1, 2015",
+			"img1":"images/star.png"
+		},
+		{
+			"img":"images/o2.jpg",
+			"name":"A Blue Morning",
+			"time":"March 1, 2015",
+			"img1":"images/star.png"
+		},
+		{
+			"img":"images/o3.jpg",
+			"name":"A Blue Morning",
+			"time":"March 1, 2015",
+			"img1":"images/star.png"
+		}
+	],
+	"lastest":[
+		{
+			"img":"images/h1.jpg",
+			"name":"A Blue Morning",
+			"time":"March 1, 2015",
+			"img1":"images/star.png"
+		},
+		{
+			"img":"images/h2.jpg",
+			"name":"A Blue Morning",
+			"time":"March 1, 2015",
+			"img1":"images/star.png"
+		},
+		{
+			"img":"images/h3.jpg",
+			"name":"A Blue Morning",
+			"time":"March 1, 2015",
+			"img1":"images/star.png"
+		}
+	],
+	"home":{
+		"H_info_page1":[		
+			{
+				"img":"images/1.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/2.jpg",
+				"a":"Film's Name",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/3.jpg",
+				"a":"Lord Of War",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/4.jpg",
+				"a":"The Sorcerer's Apprentice",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/5.jpg",
+				"a":"National treasure",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/6.jpg",
+				"a":"Seeking justice",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/7.jpg",
+				"a":"Season Of The Witch",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/8.jpg",
+				"a":"Three Mustketeera",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/9.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/10.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/11.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/12.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/13.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/19.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/20.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/c1.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			}						
+		],
+		"H_info_page2":[		
+			{
+				"img":"images/c2.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/c3.jpg",
+				"a":"Film's Name",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/c4.jpg",
+				"a":"Lord Of War",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/c5.jpg",
+				"a":"The Sorcerer's Apprentice",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/c6.jpg",
+				"a":"National treasure",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/c7.jpg",
+				"a":"Seeking justice",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/c8.jpg",
+				"a":"Season Of The Witch",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/c9.jpg",
+				"a":"Three Mustketeera",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/c10.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/g1.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/g2.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/g3.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/g4.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/g5.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/g6.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},			
+			{
+				"img":"images/g7.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			}						
+		],
+		"H_info_page3":[
+			{
+				"img":"images/g8.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/h1.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/g2.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/h3.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/h4.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/h5.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/h6.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/h7.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/m15.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/m16.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/t1.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/t2.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			}
+		],
+		"H_info_page4":[
+			{
+				"img":"images/hr10.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/hr1.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/hr2.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/hr3.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/hr4.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/hr5.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/hr6.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/hr7.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/t3.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/t4.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/t5.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/t6.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			}
+		],
+		"H_info_page5":[
+			{
+				"img":"images/hr8.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/hr9.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/m1.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/m2.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/m3.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/m4.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/m5.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/m6.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/t7.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/t8.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			}
+		],
+		"H_info_page6":[
+			{
+				"img":"images/m7.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/m8.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/m9.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/m10.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/m11.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/m12.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/m13.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/m14.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			}
+		]
+	},
+	"greatest":{
+		"H_info_page1":[
+			{
+				"img":"images/o1.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/c2.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o3.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/c4.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/g5.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o6.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/7.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o8.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/h6.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/hr10.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			}
+		]
+	},
+	"best":{
+		"H_info_page1":[
+			{
+				"img":"images/c1.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/h2.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/c3.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/h4.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/hr5.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o6.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/c7.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o8.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o9.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o10.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o11.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o12.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o13.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o14.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o15.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o16.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			}
+		]
+	},
+	"oscar":{
+		"H_info_page1":[
+			{
+				"img":"images/o1.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o2.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o3.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o4.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o5.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o6.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o7.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o8.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o9.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o10.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o11.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o12.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o13.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o14.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o15.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			},
+			{
+				"img":"images/o16.jpg",
+				"a":"Lethal Weapon 4",
+				"p":"Lorem ipsum dolor sit"
+			}
+		]
+	}
+}
